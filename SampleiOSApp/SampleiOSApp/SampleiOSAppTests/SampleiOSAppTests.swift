@@ -2,12 +2,12 @@
 //  SampleiOSAppTests.swift
 //  SampleiOSAppTests
 //
-//  Created by Alekh on 12/13/15.
-//  Copyright (c) 2015 XYZ. All rights reserved.
+//  Created by AlekhMittal on 26/12/15.
+//  Copyright © 2015 AlekhMittal. All rights reserved.
 //
 
-import UIKit
 import XCTest
+@testable import SampleiOSApp
 
 class SampleiOSAppTests: XCTestCase {
     
@@ -23,12 +23,12 @@ class SampleiOSAppTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        XCTAssert(true, "Pass")
+        // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
+        self.measureBlock {
             // Put the code you want to measure the time of here.
         }
     }

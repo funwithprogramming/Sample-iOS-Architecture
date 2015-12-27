@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  SampleiOSApp
 //
-//  Created by Alekh on 12/13/15.
-//  Copyright (c) 2015 XYZ. All rights reserved.
+//  Created by AlekhMittal on 26/12/15.
+//  Copyright © 2015 AlekhMittal. All rights reserved.
 //
 
 import UIKit
